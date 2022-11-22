@@ -1,5 +1,10 @@
 # Hack-the-change-hackathon
 
+# CommuniFeed
+
+## Idea
+A project to help combat food waste and food insecurity across communities by providing no-barrier access to food and donations.
+
 ## Inspiration
 Food waste and food insecurity are major issues and effective access to food is unattainable for many. Our goal is to create a barrier-free and safe access to food for the community. 
 ## What it does
