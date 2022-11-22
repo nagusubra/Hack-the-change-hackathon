@@ -1,0 +1,59 @@
+html {
+  margin: 0;
+  height: 150vh;
+  overflow: auto;
+}
+
+.center-me {
+  position: absolute;
+  width: 75%;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.content {
+  width: 600px;
+}
+
+.content h1 span {
+  font-weight: 600;
+  color: #26bfa7;
+}
+
+.lgs {
+  margin-top: 60px;
+}
+
+.lgs h3 span {
+  font-size: 15px;
+}
+
+.cta-buttons button {
+  padding: 7px;
+  margin: 14px 22px;
+}
+
+
+
+
+
+
+
+
+.footer .container2 li{
+	list-style: none;
+	border-right: none;
+}
+
+.footer .container2 li a{
+	display: inline-block;
+	color: rgb(255, 255, 255);
+	padding: 10px 30px;
+	text-decoration: none;
+	line-height:3em;
+	font-weight: 1000;
+	letter-spacing: 0.5px;
+	align-self: center;
+}
