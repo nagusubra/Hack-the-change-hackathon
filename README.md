@@ -1,5 +1,3 @@
-# Hack-the-change-hackathon
-
 # CommuniFeed
 
 ## Idea
